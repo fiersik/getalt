@@ -1,0 +1,39 @@
+---
+
+entries:
+
+  - link: https://download.etersoft.ru/pub/Etersoft/XimperLinux/Current/ISO/ximper-gnome-0.9.3-x86_64.iso
+    platform: deferred
+    solution: ximper-gnome
+    importance: 1
+    index_icon: download-latest
+    arch: x86-64
+    type: iso
+    status: release
+
+  - link: https://download.etersoft.ru/pub/Etersoft/XimperLinux/Current/ISO/ximper-gnome-nvidia-0.9.3-x86_64.iso
+    platform: deferred
+    solution: ximper-gnome
+    importance: 0
+    arch: x86-64
+    type: iso
+    status: release
+    board: Ximper GNOME with NVIDIA GPU
+
+  - link: https://download.etersoft.ru/pub/Etersoft/XimperLinux/Current/ISO/ximper-hyprland-0.9.3-x86_64.iso
+    platform: deferred
+    solution: ximper-hyprland
+    importance: 1
+    index_icon: download-latest
+    arch: x86-64
+    type: iso
+    status: release
+
+  - link: https://download.etersoft.ru/pub/Etersoft/XimperLinux/Current/ISO/ximper-hyprland-nvidia-0.9.3-x86_64.iso
+    platform: deferred
+    solution: ximper-hyprland
+    importance: 0
+    arch: x86-64
+    type: iso
+    status: release
+    board: Ximper Hyprland with NVIDIA GPU

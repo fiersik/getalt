@@ -38,10 +38,14 @@ layout: default
                       <b>{{ site.data.platforms.text-en }}</b>
                     {% endif %}
 
-                    {% for p in platforms%}
-                    {% if p <= platform %}
-                      <button onclick="showVersion('{{p}}')">{{p}}</button>
-                    {% endif %}
+                    {% for p in platforms %}
+                      {% if p == 'deferred' %}
+                        {% if platform == 'deferred' %}
+                          <button onclick="showVersion('{{p}}')">{{p}}</button>
+                        {% endif %}
+                      {% elsif p <= platform %}
+                        <button onclick="showVersion('{{p}}')">{{p}}</button>
+                      {% endif %}
                     {% endfor %}
                 </div>
               </div>

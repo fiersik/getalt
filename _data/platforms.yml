@@ -2,5 +2,6 @@ text-en: "Platform: "
 text-ru: "Платформа: "
 
 show-platforms:
+  - "deferred"
   - "p11"
   - "p10"

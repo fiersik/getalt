@@ -1,0 +1,52 @@
+name_en: Etersoft
+name_ru: Етерсофт
+order: 1
+bgcolor: f1f1f1
+
+members:
+
+ - name_ru: Ximper Linux GNOME
+   name_en: Ximper Linux GNOME
+   code: ximper-gnome
+   img: ximper
+   branch: deferred
+   descr_ru: |
+     Операционная система для тех, кто требует от системы всего и сразу:
+     современный дизайн, высокая скорость и уверенность в завтрашнем дне.
+     Построен на отложенном репозитории ALT Sisyphus и гарантирует стабильность.
+   descr_en: |
+     The operating system is for those who require everything from the system at once:
+     modern design, high speed and confidence in the future.
+     It is built on the ALT Sisyphus deferred repository and guarantees stability.
+   descr_full_ru: |
+     Операционная система для тех, кто требует от системы всего и сразу:
+     современный дизайн, высокая скорость и уверенность в завтрашнем дне.
+     Построен на отложенном репозитории ALT Sisyphus и гарантирует стабильность.
+
+   descr_full_en: |
+     The operating system is for those who require everything from the system at once:
+     modern design, high speed and confidence in the future.
+     It is built on the ALT Sisyphus deferred repository and guarantees stability.
+
+ - name_ru: Ximper Linux Hyprland
+   name_en: Ximper Linux Hyprland
+   code: ximper-hyprland
+   img: ximper
+   branch: deferred
+   descr_ru: |
+     Операционная система с оконным менеджером Hyprland для продвинутых пользователей,
+     стремящихся к легкости и скорости работы.
+     Идеален для экспериментов и нестандартных конфигураций.
+   descr_en: |
+     An operating system with the Hyprland window manager for advanced users
+     who strive for ease and speed of operation. 
+     It is ideal for experiments and non-standard configurations.
+   descr_full_ru: |
+     Операционная система с оконным менеджером Hyprland для продвинутых пользователей,
+     стремящихся к легкости и скорости работы.
+     Идеален для экспериментов и нестандартных конфигураций.
+
+   descr_full_en: |
+     An operating system with the Hyprland window manager for advanced users
+     who strive for ease and speed of operation. 
+     It is ideal for experiments and non-standard configurations.
